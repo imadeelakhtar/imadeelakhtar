@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻I am Adeel Akhtar, 4th year CSE Student @ NSUT (2023–2027)<br>⚡ Full-Stack Developer <br>💻 Languages: Java, Python, JavaScript, C++<br>🎨 Frontend: HTML, CSS, React.js, Next.js, Tailwind CSS<br>⚙️ Backend: Node.js, Express.js, REST APIs<br>🗄️ Databases: MongoDB, MySQL, PostgreSQL<br>🛠️ Tools: Git, GitHub, VS Code, Postman<br>🚀 Building AI-powered and scalable web applications. Always learning, always building.
+👨‍💻I am Adeel Akhtar, 4th year CSE Student @ NSUT (2023–2027)<br>⚡ Full-Stack Developer <br>💻 Languages: Java, Python, JavaScript, Kotlin, C++<br>🎨 Frontend: HTML, CSS, React.js, Next.js, Tailwind CSS<br>⚙️ Backend: Node.js, Express.js, REST APIs<br>🗄️ Databases: MongoDB, MySQL, PostgreSQL<br>🛠️ Tools: Git, GitHub, VS Code, Postman<br>🚀 Building AI-powered and scalable web applications. Always learning, always building.
 
 
 ## 🌐 Socials:
